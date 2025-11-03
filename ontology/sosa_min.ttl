@@ -1,0 +1,7 @@
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ex:   <http://example.org/> .
+
+# 참고용 미니 스니펫 (실사용은 공식 SOSA/SSN을 n10s로 임포트 권장)
+ex:Observation a sosa:Observation .
+ex:Sensor a sosa:Sensor .
+ex:FeatureOfInterest a sosa:FeatureOfInterest .

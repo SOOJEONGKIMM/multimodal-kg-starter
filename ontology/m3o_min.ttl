@@ -1,0 +1,6 @@
+@prefix m3o: <http://purl.org/m3o/> .
+@prefix ex:  <http://example.org/> .
+
+# 참고용 미니 스니펫 (이미지/오디오는 M3O의 미디어 개념과 매핑 가능)
+ex:MediaResource a m3o:MediaResource .
+ex:InformationObject a m3o:InformationObject .

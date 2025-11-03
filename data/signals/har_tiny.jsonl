@@ -1,0 +1,3 @@
+{"uid":"obs#sub1_win1_ax","time":"2024-10-03T10:00:01Z","value":0.31,"unit":"g","sensor_uid":"sensor#acc","property":"acc_x","subject":"subject#1"}
+{"uid":"obs#sub1_win1_ay","time":"2024-10-03T10:00:01Z","value":-0.05,"unit":"g","sensor_uid":"sensor#acc","property":"acc_y","subject":"subject#1"}
+{"uid":"obs#sub2_win1_hr","time":"2024-10-03T10:00:02Z","value":91,"unit":"bpm","sensor_uid":"sensor#hrm","property":"heart_rate","subject":"subject#2"}
